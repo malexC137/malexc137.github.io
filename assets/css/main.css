@@ -3931,6 +3931,15 @@ input, select, textarea {
 
 /* Intro */
 
+
+	.profile-pic {
+		width: 300px;
+		height: 300px;
+		border-radius: 50%;
+		margin: 50px 0 50px 0;
+		border: 3px solid white;
+	}
+	
 	#intro {
 		background-attachment: fixed;
 		background-image: url("images/intro.svg");
